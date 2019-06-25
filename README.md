@@ -1,0 +1,2 @@
+- Nothing much to this one, just a few lines of code for building a responsive image gallery with Flexbox
+- All images are owned by their respective authors and were taken from Pexels.com.
